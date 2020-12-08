@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/alarmSounds">
+        <file>alien-ship.mp3</file>
+    </qresource>
+    <qresource prefix="/timerSounds">
+        <file>nuclear-warning.mp3</file>
+    </qresource>
+</RCC>
